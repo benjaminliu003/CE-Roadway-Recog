@@ -1,0 +1,8 @@
+{
+  "models": {
+    "tester2204/CE-Recog": 1
+  },
+  "scripts": {
+    "start": "python app.py"
+  }
+}
