@@ -1,4 +1,5 @@
 # CE-Roadway-Recog
-Image recognition project for Computer Engineering 2021
+Image recognition project built in early 2021.
+Documentation is provided in the project files.
 
 Meant for the AlwaysAI Platform.
